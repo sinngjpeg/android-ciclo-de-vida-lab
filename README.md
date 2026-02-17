@@ -34,3 +34,5 @@ O ciclo de vida de uma Activity no Android é composto por sete principais méto
 Esses métodos permitem gerenciar recursos, salvar estados e otimizar o desempenho da aplicação conforme o usuário navega entre telas ou alterna entre aplicativos.
 
 ---
+
+
